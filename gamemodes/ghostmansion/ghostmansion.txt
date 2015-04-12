@@ -1,0 +1,8 @@
+"ghostmansion"
+{
+	"base"		"base"
+	"title"		"Ghost Mansion"
+	"maps"		"ghost_"
+	"menusystem"	"1"
+	"workshopid"	""
+}
